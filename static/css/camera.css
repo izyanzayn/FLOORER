@@ -1,0 +1,44 @@
+
+html, body {
+  height: 100%;
+  max-width: 100%;
+  clear: both;
+}
+
+
+
+#camera-page{
+  height: 100%;
+  max-width: 100%;
+}
+
+
+
+.page-header{
+  margin-top:50px;
+  margin-bottom: 50px;
+  padding: 20px;
+}
+
+/*#video-canvas{
+  max-height: 100%;
+  margin-top: 200px;
+  margin-bottom: 100px;
+  padding-bottom: 50px;
+  left: 100px;
+  bottom: -130px;
+  clear: both;
+  position: absolute;
+}*/
+
+
+canvas .p5Canvas{
+width:620px;
+height: 560px;
+position: absolute;
+left: 150px;
+top:300px;
+bottom:300px;
+margin-bottom: 300px;
+clear: both;
+}
